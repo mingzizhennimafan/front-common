@@ -2,6 +2,10 @@
 
 > just for learning
 
+## 持续更新中，欢迎start
+
+> 如果你也对此有想法，敬请地pull request吧！
+
 ## Build Setup
 
 ``` bash
